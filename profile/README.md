@@ -5,13 +5,6 @@
   <br/>
   Everything made by Ultimatum can, and most likely will, change over time as more contributions are made by the community.<br>
   <br/>
-  The current ideal functionality for the Ultimatum project:<br>
-  <ul>
-    <i>Fully functional blockchain</i><br>
-    <i>Voting system made and used by the community</i><br>
-    <i>Reputation verification system</i><br>
-    <i>Github integration which allows: pull requests to be voted on, issues to be voted on etc.</i><br><br>
-  </ul>
 </div>
 <div>
   <h2>But what actually is Ultimatum?</h2>
