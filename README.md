@@ -10,10 +10,7 @@
     <i>Fully functional blockchain</i><br>
     <i>Voting system made and used by the community</i><br>
     <i>Reputation verification system</i><br>
-    <i>Github integration which allows:</i><br>
-    <ul>
-      <i>pull requests to be voted on<br>
-      <i>issues to be voted on etc.</i><br><br>
+    <i>Github integration which allows: pull requests to be voted on, issues to be voted on etc.</i><br><br>
     </ul>
   </ul>
 </div>
